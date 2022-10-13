@@ -1,0 +1,3 @@
+[console_scripts]
+search-torrent = torrent_crawler.search:main
+
