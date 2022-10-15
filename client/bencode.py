@@ -176,5 +176,3 @@ class Encoder:
         result += b''.join([self._encode_next(item) for item in data])
         result += b'e'
         return result
-        
-        
